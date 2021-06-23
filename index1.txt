@@ -5,3 +5,8 @@ darabase
 mysql
 html
 angular
+db
+bd
+cd
+fg
+
