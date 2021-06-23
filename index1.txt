@@ -1,0 +1,7 @@
+php
+node.js
+mongodb
+darabase
+mysql
+html
+angular
